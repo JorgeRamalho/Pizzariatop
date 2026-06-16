@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 72" fill="none" role="img" aria-labelledby="logomarcaTitle">
+  <title id="logomarcaTitle">Pizzaria Top — Sabor que sobe ao topo</title>
+  <g transform="translate(4 8)">
+    <circle cx="28" cy="28" r="26" fill="#fff8f0" stroke="#c41e3a" stroke-width="2"/>
+    <path d="M28 10v20" stroke="#f5e6d3" stroke-width="1.5"/>
+    <path d="M28 10 42 38a26 26 0 0 1-28 0L28 10z" fill="#c41e3a"/>
+    <path d="M28 10v18a12 12 0 0 1-6 17l6-35z" fill="#f4a261"/>
+    <circle cx="35" cy="26" r="3" fill="#2d6a4f"/>
+    <path d="M28 4 31 10H25l3-6z" fill="#ffb703"/>
+  </g>
+  <text x="72" y="34" font-family="Georgia, serif" font-size="26" font-weight="700" fill="#1a1a1a">Pizzaria <tspan fill="#c41e3a">Top</tspan></text>
+  <text x="72" y="54" font-family="Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="0.18em" fill="#5c5c5c">SABOR QUE SOBE AO TOPO</text>
+</svg>

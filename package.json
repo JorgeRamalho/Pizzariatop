@@ -1,0 +1,12 @@
+{
+  "name": "pizzaria-top",
+  "version": "1.0.0",
+  "description": "Site delivery Pizzaria Top",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
