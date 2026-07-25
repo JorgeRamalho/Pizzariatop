@@ -1,15 +1,20 @@
-📌 ## Pizzaria Top - A sua pizzaria 24h
+📌 ## Pizzaria Top 🍕 - A melhor pizza da cidade  
 
-## Website Link do projeto online: https://pizzariatop.vercel.app/
+🌐 ## Website Link do projeto online: https://pizzariatop.vercel.app/
 
-📂 ## Repositório: https://github.com//JorgeRamalho/Pizzaiatop
+📂 ## Repositório: https://github.com//JorgeRamalho/Pizzariatop.git
 
 💻 ## Tecnologias
 
-Html Css JavaScript React Typescript Node.js 📲 ## Funcionalidades
+Html Css JavaScript React Typescript Node.js 
 
-Fotos e Imaganes Vídeos Layout Website Style
+📲 ## Funcionalidades
+Fotos e Imagens Vídeos Layout Website Style
 
-📠 ## Como executar git clone ... npm install npm run dev
+📠 ## Como executar git clone 
+... npm install npm run dev
 
-💿 ## Autor 📄Seu nome: Jorge R. Barbosa 💼 LinkedIn: https://www.linkedin.com/in/jorge-r-barbosa-aabb0417b/ 👾 GitHub: https://github.com/JorgeRamalho ☎️ Contato: 41 99143-4153
+📄
+💿 ## Autor: Jorge R. Barbosa 💼 LinkedIn: https://www.linkedin.com/in/jorge-r-barbosa-aabb0417b/ 
+👾 GitHub: https://github.com/JorgeRamalho ☎️ Contato: 41 99143-4153
+
