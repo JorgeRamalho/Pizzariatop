@@ -1,8 +1,8 @@
 📌 ## Pizzaria Top - A sua pizzaria 24h
 
-## Website Link do projeto online: https://pizzariatop.netifly.app/
+## Website Link do projeto online: https://pizzariatop.vercel.app/
 
-📂 ## Repositório: https://github.com//JorgeRamalho/pizzaiatop
+📂 ## Repositório: https://github.com//JorgeRamalho/Pizzaiatop
 
 💻 ## Tecnologias
 
