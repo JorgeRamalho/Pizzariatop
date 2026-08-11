@@ -316,14 +316,19 @@ ul {
   padding: 4rem 0;
   background:
     linear-gradient(135deg, rgba(26, 26, 26, 0.75) 0%, rgba(196, 30, 58, 0.55) 100%),
-    url("https://images.unsplash.com/photo-1513104890138-7c749659a591?w=1600&q=80") center / cover no-repeat;
+    url("https://images.unsplash.com/photo-1513104890138-7c749659a591?w=1600&q=80")
+      center / cover no-repeat;
   color: var(--color-branco);
 }
 
 .hero__overlay {
   position: absolute;
   inset: 0;
-  background: radial-gradient(ellipse at 30% 50%, rgba(244, 162, 97, 0.15), transparent 60%);
+  background: radial-gradient(
+    ellipse at 30% 50%,
+    rgba(244, 162, 97, 0.15),
+    transparent 60%
+  );
   pointer-events: none;
 }
 
@@ -434,7 +439,9 @@ ul {
   background: var(--color-creme);
   border-radius: var(--radius-md);
   border: 1px solid var(--color-creme-dark);
-  transition: box-shadow var(--transition), transform var(--transition);
+  transition:
+    box-shadow var(--transition),
+    transform var(--transition);
 }
 
 .info-box:hover {
@@ -757,7 +764,9 @@ ul {
   border-radius: var(--radius-md);
   overflow: hidden;
   box-shadow: var(--shadow-soft);
-  transition: transform var(--transition), box-shadow var(--transition);
+  transition:
+    transform var(--transition),
+    box-shadow var(--transition);
 }
 
 .menu-card:hover {

@@ -1,0 +1,5 @@
+# Pizzaria Top — GitHub Pages
+User-agent: *
+Allow: /
+
+Sitemap: https://jorgeramalho.github.io/Pizzariatop/sitemap.xml
